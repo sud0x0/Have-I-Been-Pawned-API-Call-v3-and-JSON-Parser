@@ -1,4 +1,4 @@
-<h3>This tool is deprecated and I no longer maintain it.<h3>
+<h3>This tool is deprecated and I no longer maintain it.</h3>
 <br>
 
 <b>hibp_API_call.py</b>
